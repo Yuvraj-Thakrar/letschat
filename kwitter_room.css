@@ -1,0 +1,10 @@
+body{
+background-color: hotpink;
+}
+
+#room{
+    background-color: aqua;
+    width: 50%;
+    border-radius: 30%;
+    height: auto;
+}
